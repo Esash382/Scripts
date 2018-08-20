@@ -1,0 +1,11 @@
+Host ash
+  Hostname ash
+  User domain
+  LocalForward port_no 127.0.0.1:port_no
+  LocalForward port_no 127.0.0.1:port_no
+  LocalForward port_no 127.0.0.1:port_no
+  LocalForward port_no 127.0.0.1:port_no
+
+Host ash
+  User domain
+  ProxyCommand ssh -q domain_name  nc -q0 ash.local 22

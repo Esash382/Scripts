@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/ashraya/go/src/github.com/fh/angrydog/angrydog-1.0/debian/usr/lib/systemd'
+let g:netrw_dirhist_2='/home/ashraya/go/src/github.com/fh/angrydog/angrydog-1.0/debian/usr/lib/systemd/system'
+let g:netrw_dirhist_3='/var/log/futurehome/angrydog/angrydog-2018-06-28T08-26-03.320.log'
+let g:netrw_dirhist_4='/home/ashraya/.config'
